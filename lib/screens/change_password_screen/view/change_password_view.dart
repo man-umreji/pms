@@ -46,7 +46,6 @@ class _ChangePasswordBodyState extends State<ChangePasswordBody> {
             padding: const EdgeInsets.all(24),
             child: Column(
               children: [
-                // Header Card with Gradient
                 Container(
                   width: double.infinity,
                   padding: const EdgeInsets.all(24),
@@ -105,8 +104,6 @@ class _ChangePasswordBodyState extends State<ChangePasswordBody> {
                 ),
 
                 const SizedBox(height: 30),
-
-                // Form Card
                 Container(
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(

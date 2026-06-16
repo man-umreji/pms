@@ -2,10 +2,10 @@ class Endpoint {
   Endpoint._();
 
   // Test URL
-        static const String pmsBaseUrl = 'https://uatpms.sritindia.com:8443/';
+  //       static const String pmsBaseUrl = 'https://uatpms.sritindia.com:8443/';
 
   // Live URL
-  //      static const String pmsBaseUrl = 'https://pms.sritindia.com/';
+        static const String pmsBaseUrl = 'https://pms.sritindia.com/';
 
 
   // Testing URL
